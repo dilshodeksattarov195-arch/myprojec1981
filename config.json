@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routersarse",
+        "uuid": 15012018,
+        "checksum": "3gj7hl"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
